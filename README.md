@@ -24,3 +24,7 @@
 
 <b>Reflection</b>
 <p>We are keen about how we could make ocbc webpage accessible for everybody however we will tend to meet things that we could not solve and for now it is to identify what the user could and could not see. I think through the first meeting with my groupmates, we are able to identify most of the problems for the visually impaired user and could think of a few ways to allow the webpage more accessible for them to access it.</p>
+
+
+# Week 2:
+<b>Updates on Week 1</b>
