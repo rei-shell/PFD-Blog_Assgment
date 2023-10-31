@@ -28,3 +28,16 @@
 
 # Week 2:
 <b>Updates on Week 1</b>
+On Tuesday, we had an online meeting with the OCBC representative. During our call, we mention about the pain points and solutions we thought of during our call on 20 October. The representative said that our solutions are quite similar to each other and we should consider adding some more solutions for our project.
+
+<b>What we planned</b>
+During our call on 27 October, we had multiple things sorted out with the team. 
+
+Firstly we planned who is supposed to do front end, back end and the overall planning. For me, I am given the task to create the front end layout for the webpage and implement at least one of the back end features in our solutions. I was hesitant for the designing as my designing was not very good, hence I asked them for help with the designing and does the designing part together. 
+
+Secondly, we faced the problem with the Technical part of the project as we do not know if we should use ASP.NET or HTML,CSS,JS. After much discussion with the team, we decided to use ASP.NET as there are many libraries available for the project at ASP.NET.
+
+Finally, we do not know what features we should in the NOT list as for our IN and OUT list we had features added in but we a hard time on deciding if we should add more features to the OUT list. For out NOT list, we had conflict on some of the features, such as the adding more language for the webpage and adding popup messages that could directly talk when shown. For some features, we discuss if those features are mandatory. At the end, we decided that we should at least complete the IN list features first and think if we should implement the OUT and NOT list features.
+
+<b>Reflection</b>
+
