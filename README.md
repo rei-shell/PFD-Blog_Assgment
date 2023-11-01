@@ -43,4 +43,11 @@ Finally, we do not know what features we should in the NOT list as for our IN an
 During all the meeting I had been to in this week, I gain more insight on how PFD and SDD in connected in a way that it the knowledge I gained in SDD could make us keep on the right track. Knowing our differences during our call on 27 October, we could help each other out if we could not fix a bug and we could make arrangement on the work load so that my groupmates does not have to work with the skills that they are weak in.
 
 # Week 3
+<b>Updates on week 2</b><br>
+I have started creating the login page for our project. During the face-to-face lesson on 31 October, we experiment on what the visually impaired user could see on the phhysical website of OCBC by removing our glasses and view the website from a distance. We realise that the color white as the background is not suitable as the mouse will not be seen. We also found out that the wordings for the website is too small. However, when we changed the theme of the laptop to a high contrast theme, the background color of the webpage changes and the colors when hovering over the drop down navbar changes to a brighter color. We also found out that the webpage does not require the user to type their information as much, most of the information they need to enter are in radio button or dropdown option.</b>
+
+<b>What we discussed</b><br>
+
+<b>Reflection</b><br>
+
 
