@@ -1,6 +1,13 @@
 # PFD-Blog_Assgment
 <b>Problem Statement: <i>Make Digital Banking Accessible for everyone</i></b>
 
+<ul>Our team: </ul>
+<li>Jia Yi</li>
+<li>Rachelle</li>
+<li>Klayton</li>
+<li>Kester</li>
+<li>Natalie</li>
+
 # Week 1:
 <b>Main User: <i>Visually Impaired/Blind</b></i>
 
