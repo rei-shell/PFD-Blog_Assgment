@@ -47,7 +47,26 @@ During all the meeting I had been to in this week, I gain more insight on how PF
 I have started creating the login page for our project. During the face-to-face lesson on 31 October, we experiment on what the visually impaired user could see on the phhysical website of OCBC by removing our glasses and view the website from a distance. We realise that the color white as the background is not suitable as the mouse will not be seen. We also found out that the wordings for the website is too small. However, when we changed the theme of the laptop to a high contrast theme, the background color of the webpage changes and the colors when hovering over the drop down navbar changes to a brighter color. We also found out that the webpage does not require the user to type their information as much, most of the information they need to enter are in radio button or dropdown option.</b>
 
 <b>What we discussed</b><br>
+During our call on 5 November, we planned on how the webpage should looks like and as their front end developer, I had to start coding the webpage in order for the back end developer, Kester and Jia Yi to start working on the speech-to-text features. 
 
 <b>Reflection</b><br>
+After the meeting on 31 October, I started coding the homepage of the webpage and continued the webpage design based on hte wireframe planned together with Jia Yi. 
+
+# Week 4
+<b>Updates on week 3</b><br>
+During our update call with ocbc on 31 October, we showned them our wireframe for our webpage and our implemented features, speech-to-text. During the call, I was working on the setting page for card activation for the user after they login to the webpage and had received their credit card. After the pfd class, our member who is working database, Klayton, completed with the data input and allowed user to login. 
+
+<b>What we discussed</b><br>
+We were discussing on whether we should include a toggle button where if the user needs the speech-to-text function, the user would toggle it and will activate the speech-to-text function. However if the user does not need the function, the user does not need to toggle the button to activate the function. We also discussed on where we should place the toggle button, if we should place the button in the homgpage or after the user had logged in.
+
+<b>Reflection</b><br>
+I planned on at least finishing the homepage ui design for the homepage and at least finish half of the ui setting pages. After the call with the ocbc team, I felt more motivated to complete my UI design for the webpage even if there are stuff that I could not figure out. I am quite grateful for having group mates that is willing to help each other when one's is in doubt and is able to solve the problem together and speak out their doubt and confirm with the team.
+
+# Week 5
+<b>Updates on week 4</b><br>
+
+
+<b>Reflection</b><br>
+
 
 
