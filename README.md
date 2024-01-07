@@ -76,4 +76,11 @@ After connfirming what our roles are in week 4, we focused on what we had to com
 <b>Reflection</b><br>
 During week 5, we had a 3 days hackathon and on the last day of the hackathon we went to ocbc campus for our prenstation pitch to ocbc. Even though our website ui was quite ugly, we managed to make most of our features work and in condition. However there were parts we did not present as there were time limitations. From the feedback gain from the ocbc representative, we might implement a feature to allow user to record their voice into the system and use it everytime they logged in. I might be adding some other features to the webpage such as alternative verfication methods. I will also be changing most of the UI design of the webpage as the current UI was just a basic design, I would be changing the hompage design and most of the font of the webpage.
 
+# Week 12
+<b>Updates</b><br>
+I managed to improve on some of the UI of the webpage and implement some new features to the transfer page together with Jia Yi.
+
+<b>Refelction</b><br>
+After our short break from the hackathon, we tried to sort our features out and plan on what features should we improve on and which features is considered as done. After planning with our features, we decide on which pages UI we should improve and implement other new features to our webpage.
+
 
