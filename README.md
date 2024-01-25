@@ -71,7 +71,7 @@ I planned on at least finishing the homepage ui design for the homepage and at l
 
 # Week 5
 <b>Updates on week 4</b><br>
-After connfirming what our roles are in week 4, we focused on what we had to complete and set a dateline on each features completion date. 
+After confirming what our roles are in week 4, we focused on what we had to complete and set a dateline on each features completion date. 
 
 <b>Reflection</b><br>
 During week 5, we had a 3 days hackathon and on the last day of the hackathon we went to ocbc campus for our prenstation pitch to ocbc. Even though our website ui was quite ugly, we managed to make most of our features work and in condition. However there were parts we did not present as there were time limitations. From the feedback gain from the ocbc representative, we might implement a feature to allow user to record their voice into the system and use it everytime they logged in. I might be adding some other features to the webpage such as alternative verfication methods. I will also be changing most of the UI design of the webpage as the current UI was just a basic design, I would be changing the hompage design and most of the font of the webpage.
@@ -80,7 +80,35 @@ During week 5, we had a 3 days hackathon and on the last day of the hackathon we
 <b>Updates</b><br>
 I managed to improve on some of the UI of the webpage and implement some new features to the transfer page together with Jia Yi.
 
-<b>Refelction</b><br>
+<b>Reflection</b><br>
 After our short break from the hackathon, we tried to sort our features out and plan on what features should we improve on and which features is considered as done. After planning with our features, we decide on which pages UI we should improve and implement other new features to our webpage.
+
+# Week 13
+<b>Updates</b><br>
+We managed to identify some features to update on our code. We will be deciding on how to split the work evenly to one another.
+
+<b>Reflection</b><br>
+After our short descussion, we decided to work on serveral features and each members to choose one of the features that they are more confident to complete.
+
+# Week 14
+<b>Updates</b><br>
+We updated our plans to our teacher and continued our UI improvement and updates of our website.
+
+<b>Reflection</b><br>
+After spliting the work, we continued to work on the features.
+
+# Week 15
+<b>Updates</b><br>
+After updating our teacher about our features, we asked for feedback and request about some features that may be improved.
+
+<b>Reflection</b><br>
+It was a interesting experience.
+
+# Week 16
+<b>Updates</b><br>
+
+
+<b>Reflection</b><br>
+
 
 
