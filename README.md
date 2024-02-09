@@ -106,9 +106,12 @@ It was a interesting experience.
 
 # Week 16
 <b>Updates</b><br>
-
+Because of the lack of time and rushing of other modules assigment, we actually had limited time to work on our pfd updates and we were a little behind time. We tried to make use of our time in making this assigment better than the first product that we presented in OCBC last month.
 
 <b>Reflection</b><br>
+Before the week ended, we tried to improve on making some of the flaws or bugs disappear. After making prefecting the flaws, we tried the think of some extra features that might work for our user which is visually impaired.
 
-
+# Week 17
+<b>Reflection</b><br>
+Before our presentation, there is some flaws on our speech to text features. During our rehearsal, I could allow the feature work prefectly. However, during the presentation, my sore throat went bad and the features suddenly did not work for most of the parts. After the presentation, I felt very bad as I could not present as what I expected and thought if I had healed my throat before the presentation, my part would be working as expected.
 
